@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65142a4f82e471029af5f230"
+  },
+  "name": "Hà Nội",
+  "image": "https://res.cloudinary.com/dsjbcv5xe/image/upload/v1694433579/Ha_Noi_reqqto.jpg",
+  "hotels": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65142a5f82e471029af5f23c"
+  },
+  "name": "Đà Nẵng",
+  "image": "https://res.cloudinary.com/dsjbcv5xe/image/upload/v1694433577/Da_Nang_lm62wc.jpg",
+  "hotels": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65142a7082e471029af5f248"
+  },
+  "name": "Hồ Chí Minh",
+  "image": "https://res.cloudinary.com/dsjbcv5xe/image/upload/v1694433580/HCM_hovr50.jpg",
+  "hotels": 1,
+  "__v": 0
+}]

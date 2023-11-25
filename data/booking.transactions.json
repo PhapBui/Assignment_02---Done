@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "65143bc0a839d28eb00cdf37"
+  },
+  "user": {
+    "$oid": "6514252f7cc5d041512f9eac"
+  },
+  "hotelId": {
+    "$oid": "65142d9c108217514990c9d6"
+  },
+  "rooms": [
+    101,
+    202
+  ],
+  "dateStart": {
+    "$date": "2023-09-27T14:26:23.708Z"
+  },
+  "dateEnd": {
+    "$date": "2023-09-29T14:26:23.708Z"
+  },
+  "price": 2600,
+  "payment": "Cash",
+  "status": "Booked",
+  "__v": 0
+}]

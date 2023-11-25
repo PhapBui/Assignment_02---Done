@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6514252f7cc5d041512f9eac"
+  },
+  "password": "123456",
+  "email": "bvphap@gmail.com",
+  "isAdmin": true,
+  "__v": 0,
+  "cardNumber": "123456",
+  "fullName": "Bui Viet Phap",
+  "phoneNumber": "123456789"
+}]

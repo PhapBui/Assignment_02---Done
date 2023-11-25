@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "651429d4be0201999bfc8555"
+  },
+  "name": "Hotel",
+  "image": "https://res.cloudinary.com/dsjbcv5xe/image/upload/v1694781026/type_1_auhzd1.webp",
+  "hotels": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651429f682e471029af5f21f"
+  },
+  "name": "Apartments",
+  "image": "https://res.cloudinary.com/dsjbcv5xe/image/upload/v1694781027/type_2_yt2o1d.jpg",
+  "hotels": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65142a0382e471029af5f221"
+  },
+  "name": "Resorts",
+  "image": "https://res.cloudinary.com/dsjbcv5xe/image/upload/v1694781026/type_3_tkbyxt.jpg",
+  "hotels": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65142a1382e471029af5f223"
+  },
+  "name": "Villas",
+  "image": "https://res.cloudinary.com/dsjbcv5xe/image/upload/v1694781027/type_4_u9rqrx.jpg",
+  "hotels": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65142a2182e471029af5f225"
+  },
+  "name": "Cabins",
+  "image": "https://res.cloudinary.com/dsjbcv5xe/image/upload/v1694781027/type_5_im7ffz.jpg",
+  "hotels": 0,
+  "__v": 0
+}]
